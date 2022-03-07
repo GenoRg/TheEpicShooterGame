@@ -1,0 +1,13 @@
+# JetBrains
+.idea
+*.iml
+
+# Maven
+**/target
+
+# OS
+*.lnk
+._*
+**/Thumbs.db
+**/[Dd]esktop.ini
+**/.DS_Store
